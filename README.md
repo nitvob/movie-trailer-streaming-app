@@ -45,12 +45,14 @@ To get the project up and running on your local machine, follow these steps:
    ```
 
 5. **Run the Spring Boot Application**
+
    ```bash
    mvn spring-boot:run
    ```
 
-Once both the frontend and backend are running, you should be able to access the trailer site from your web browser on the localhost:8080.
+Once both the frontend and backend are running, you should be able to access the trailer site from your web browser on localhost:8080.
 
----
+## Knowledge and Skills Gained
 
-Happy coding! 🚀
+Through this project, I strengthened my skills in building and deploying full-stack applications. I gained hands-on experience with Spring Boot for backend development, particularly in designing REST APIs and integrating with a MongoDB database. On the frontend, I honed my React skills, including managing state and making HTTP requests with Axios. This project also improved my understanding of client-server interaction and deploying applications locally, solidifying my ability to manage end-to-end application workflows.
+
