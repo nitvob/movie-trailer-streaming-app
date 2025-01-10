@@ -51,14 +51,6 @@ To get the project up and running on your local machine, follow these steps:
 
 Once both the frontend and backend are running, you should be able to access the trailer site from your web browser on the localhost:8080.
 
-## Contributions
-
-Feel free to fork the project, open issues, and submit pull requests. All contributions are welcomed!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
 
 Happy coding! 🚀
